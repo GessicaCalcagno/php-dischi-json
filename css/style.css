@@ -1,0 +1,26 @@
+img{
+    width: 100%;
+}
+
+header{
+    height: 80px;
+    background-color: #f0d0e9;
+}
+
+.logo{
+    width: 80px;
+}
+
+.col{
+    padding: 20px;
+}
+.card {
+    border-radius: 0 !important;
+    border-color: #e4cadf !important;
+    min-height: 500px;  
+}
+
+.heart-full{
+    color: #F0949B;
+    
+}
